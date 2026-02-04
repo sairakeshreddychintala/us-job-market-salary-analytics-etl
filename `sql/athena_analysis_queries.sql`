@@ -1,0 +1,1 @@
+SELECT * FROM "jobmarket"."gold_layer" limit 10;
